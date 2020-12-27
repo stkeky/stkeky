@@ -5,7 +5,7 @@
 
 Loading...
 
-### Daily drivers
+### ⚙️Daily drivers
 [![Manjaro](https://img.shields.io/badge/manjaro-black?style=flat-square&logo=manjaro)](https://manjaro.org/)
 [![InteliJ IDEA](https://img.shields.io/badge/intellij_idea-black?style=flat-square&logo=intellij-idea)](https://www.jetbrains.com/idea/)
 [![Git](https://img.shields.io/badge/git-black?style=flat-square&logo=git)](https://git-scm.com/)
