@@ -1,11 +1,13 @@
 ## Hi there, I am Stefan 👋
 
-[![St Keky](https://img.shields.io/badge/st-keky-03a9f4?style=flat-square)]()
-[![Instagram](https://img.shields.io/badge/instagram-black?style=flat-square&logo=instagram)](https://www.instagram.com/st_keky/)
-[![LinkedIn](https://img.shields.io/badge/linkedin-black?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/stefan-ristanovi%C4%87-1a647091/)
+[![stkeky](https://img.shields.io/badge/st-keky-03a9f4?style=flat-square)]()
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fstkeky%2Fstkeky&count_bg=%2303A9F4&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
+[![LinkedIn](https://img.shields.io/badge/linkedin-black?style=flat-square&logo=linkedin)](www.linkedin.com/in/stkeky/)
 [![Github](https://img.shields.io/badge/github-black?style=flat-square&logo=github)](https://github.com/stkeky)
+[![Instagram](https://img.shields.io/badge/instagram-black?style=flat-square&logo=instagram)](https://www.instagram.com/st_keky/)
+[![Gmail](https://img.shields.io/badge/gmail-black?style=flat-square&logo=gmail)](mailto:st.keky@gmail.com)
 
-Loading...
+Trying to get things done!
 
 ### 🔹 Actively speaking
 
@@ -33,4 +35,3 @@ Loading...
 [![Todoist](https://img.shields.io/badge/spotify-black?style=flat-square&logo=spotify)](https://www.spotify.com/)
 
 
-[![Visits Badge](https://badges.pufler.dev/visits/stkeky/stkeky?style=flat-square&color=03a9f4)](https://github.com/stkeky/stkeky)
