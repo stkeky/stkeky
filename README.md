@@ -12,9 +12,9 @@ Trying to get things done!
 [![Github](https://img.shields.io/badge/github-b8bedd?style=flat&logo=github&logoColor=333533)](https://github.com/stkeky)
 [![Instagram](https://img.shields.io/badge/instagram-b8bedd?style=flat&logo=instagram&logoColor=333533)](https://instagram.com/st_keky/)
 [![Gmail](https://img.shields.io/badge/gmail-b8bedd?style=flat&logo=gmail&logoColor=333533)](mailto:st.keky@gmail.com)
-└⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀┘⠀
+└⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀┘⠀
 
-┌⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ <code>code in</code> ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀┐⠀⠀⠀⠀⠀⠀⠀⠀⠀┌⠀⠀⠀⠀⠀⠀⠀⠀ <code>daily drivers</code> ⠀⠀⠀⠀⠀⠀⠀⠀┐
+┌⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀<code>code in</code>⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀┐⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀┌⠀⠀⠀⠀⠀⠀⠀⠀<code>daily drivers</code>⠀⠀⠀⠀⠀⠀⠀⠀┐
 
 ⠀ ⠀[![Scala](https://img.shields.io/badge/scala-b2f7ef?style=flat&logo=scala&logoColor=333533)](https://www.scala-lang.org/) 
 [![Java](https://img.shields.io/badge/java-b2f7ef??style=flat&logo=java&logoColor=333533)](https://www.java.com/)
@@ -32,7 +32,7 @@ Trying to get things done!
 [![Spotify](https://img.shields.io/badge/spotify-7bdff2?style=flat&logo=spotify&logoColor=333533)](https://www.spotify.com/)
 [![Git](https://img.shields.io/badge/git-7bdff2?style=flat&logo=git&logoColor=333533)](https://git-scm.com/)
 
-└⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀┘⠀⠀⠀⠀⠀⠀⠀⠀⠀└⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀┘⠀⠀⠀⠀⠀
+└⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀┘⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀└⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀┘⠀⠀⠀⠀⠀
 
 
 
