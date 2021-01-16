@@ -9,12 +9,13 @@
 
 Trying to get things done!
 
-#### ┌⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ code in ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀┐
-⠀ ⠀[![Scala](https://img.shields.io/badge/scala-b2f7ef?style=flat&logo=scala&logoColor=333533)](https://www.scala-lang.org/)
+┌⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ code in ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀┐⠀⠀⠀⠀⠀⠀⠀⠀⠀┌⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ daily drivers ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀┐
+
+⠀ ⠀[![Scala](https://img.shields.io/badge/scala-b2f7ef?style=flat&logo=scala&logoColor=333533)](https://www.scala-lang.org/) 
 [![Java](https://img.shields.io/badge/java-b2f7ef??style=flat&logo=java&logoColor=333533)](https://www.java.com/)
 [![Python](https://img.shields.io/badge/python-b2f7ef??style=for-the-badge&logo=python&logoColor=333533)](https://www.python.org/)
 [![SQL](https://img.shields.io/badge/sql-b2f7ef??style=for-the-badge&logo=postgresql&logoColor=333533)](https://www.postgresql.org/)
-
+[![Manjaro](https://img.shields.io/badge/manjaro-black?style=flat-square&logo=manjaro)](https://manjaro.org/)⠀⠀⠀⠀⠀⠀⠀⠀⠀
 
 ⠀ ⠀[![Kotlin](https://img.shields.io/badge/kotlin-f7d6e0?style=flat&logo=kotlin&logoColor=333533)](https://kotlinlang.org/)
 [![Javascript](https://img.shields.io/badge/javascript-f7d6e0?style=flat&logo=javascript&logoColor=333533)](https://developer.mozilla.org/en-US/docs/Web/JavaScript/)
@@ -23,9 +24,6 @@ Trying to get things done!
 └⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀┘⠀⠀⠀⠀⠀⠀⠀⠀⠀
 
 
-### ⚙️ Daily drivers
-
-[![Manjaro](https://img.shields.io/badge/manjaro-black?style=flat-square&logo=manjaro)](https://manjaro.org/)
 [![InteliJ IDEA](https://img.shields.io/badge/intellij_idea-black?style=flat-square&logo=intellij-idea)](https://www.jetbrains.com/idea/)
 [![Git](https://img.shields.io/badge/git-black?style=flat-square&logo=git)](https://git-scm.com/)
 [![Github](https://img.shields.io/badge/github-black?style=flat-square&logo=github)](https://github.com/)
