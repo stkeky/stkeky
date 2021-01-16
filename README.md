@@ -9,23 +9,23 @@
 
 Trying to get things done!
 
-┌⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ <code>code in</code> ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀┐⠀⠀⠀⠀⠀⠀⠀⠀⠀┌⠀⠀⠀⠀⠀⠀⠀⠀ <code>daily drivers</code> ⠀⠀⠀⠀⠀⠀⠀┐
+┌⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ <code>code in</code> ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀┐⠀⠀⠀⠀⠀⠀⠀⠀⠀┌⠀⠀⠀⠀⠀⠀⠀⠀ <code>daily drivers</code> ⠀⠀⠀⠀⠀⠀⠀⠀┐
 
 ⠀ ⠀[![Scala](https://img.shields.io/badge/scala-b2f7ef?style=flat&logo=scala&logoColor=333533)](https://www.scala-lang.org/) 
 [![Java](https://img.shields.io/badge/java-b2f7ef??style=flat&logo=java&logoColor=333533)](https://www.java.com/)
 [![Python](https://img.shields.io/badge/python-b2f7ef??style=for-the-badge&logo=python&logoColor=333533)](https://www.python.org/)
 [![SQL](https://img.shields.io/badge/sql-b2f7ef??style=for-the-badge&logo=postgresql&logoColor=333533)](https://www.postgresql.org/) ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-[![Manjaro](https://img.shields.io/badge/manjaro-7bdff2?style=flat-square&logo=manjaro&logoColor=333533)](https://manjaro.org/)
-[![InteliJ IDEA](https://img.shields.io/badge/intellij_idea-7bdff2?style=flat-square&logo=intellij-idea&logoColor=333533)](https://www.jetbrains.com/idea/)
-[![Todoist](https://img.shields.io/badge/todoist-7bdff2?style=flat-square&logo=todoist&logoColor=333533)](https://todoist.com/)
+[![Manjaro](https://img.shields.io/badge/manjaro-7bdff2?style=flat&logo=manjaro&logoColor=333533)](https://manjaro.org/)
+[![InteliJ IDEA](https://img.shields.io/badge/intellij_idea-7bdff2?style=flat&logo=intellij-idea&logoColor=333533)](https://www.jetbrains.com/idea/)
+[![Todoist](https://img.shields.io/badge/todoist-7bdff2?style=flat&logo=todoist&logoColor=333533)](https://todoist.com/)
 
 ⠀ ⠀[![Kotlin](https://img.shields.io/badge/kotlin-f7d6e0?style=flat&logo=kotlin&logoColor=333533)](https://kotlinlang.org/)
 [![Javascript](https://img.shields.io/badge/javascript-f7d6e0?style=flat&logo=javascript&logoColor=333533)](https://developer.mozilla.org/en-US/docs/Web/JavaScript/)
 [![Typescript](https://img.shields.io/badge/typescript-f7d6e0?style=flat&logo=typescript&logoColor=333533)](https://www.typescriptlang.org/)⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-[![Github](https://img.shields.io/badge/github-7bdff2?style=flat-square&logo=github&logoColor=333533)](https://github.com/)
-[![Slack](https://img.shields.io/badge/slack-7bdff2?style=flat-square&logo=slack&logoColor=333533)](https://slack.com/)
-[![Spotify](https://img.shields.io/badge/spotify-7bdff2?style=flat-square&logo=spotify&logoColor=333533)](https://www.spotify.com/)
-[![Git](https://img.shields.io/badge/git-7bdff2?style=flat-square&logo=git&logoColor=333533)](https://git-scm.com/)
+[![Github](https://img.shields.io/badge/github-7bdff2?style=flat&logo=github&logoColor=333533)](https://github.com/)
+[![Slack](https://img.shields.io/badge/slack-7bdff2?style=flat&logo=slack&logoColor=333533)](https://slack.com/)
+[![Spotify](https://img.shields.io/badge/spotify-7bdff2?style=flat&logo=spotify&logoColor=333533)](https://www.spotify.com/)
+[![Git](https://img.shields.io/badge/git-7bdff2?style=flat&logo=git&logoColor=333533)](https://git-scm.com/)
 
 └⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀┘⠀⠀⠀⠀⠀⠀⠀⠀⠀└⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀┘⠀⠀⠀⠀⠀
 
