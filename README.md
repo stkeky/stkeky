@@ -2,12 +2,17 @@
 
 ![stkeky](https://img.shields.io/badge/st-keky-03a9f4?style=flat-square)
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fstkeky%2Fstkeky&count_bg=%2303A9F4&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
-[![LinkedIn](https://img.shields.io/badge/linkedin-black?style=flat-square&logo=linkedin)](https://linkedin.com/in/stkeky/)
-[![Github](https://img.shields.io/badge/github-black?style=flat-square&logo=github)](https://github.com/stkeky)
-[![Instagram](https://img.shields.io/badge/instagram-black?style=flat-square&logo=instagram)](https://instagram.com/st_keky/)
-[![Gmail](https://img.shields.io/badge/gmail-black?style=flat-square&logo=gmail)](mailto:st.keky@gmail.com)
 
 Trying to get things done!
+
+
+┌⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ <code>social</code> ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀┐
+
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀[![LinkedIn](https://img.shields.io/badge/linkedin-b8bedd?style=flat&logo=linkedin&logoColor=333533)](https://linkedin.com/in/stkeky/)
+[![Github](https://img.shields.io/badge/github-b8bedd?style=flat&logo=github&logoColor=333533)](https://github.com/stkeky)
+[![Instagram](https://img.shields.io/badge/instagram-b8bedd?style=flat&logo=instagram&logoColor=333533)](https://instagram.com/st_keky/)
+[![Gmail](https://img.shields.io/badge/gmail-b8bedd?style=flat&logo=gmail&logoColor=333533)](mailto:st.keky@gmail.com)
+└⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀┘⠀
 
 ┌⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ <code>code in</code> ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀┐⠀⠀⠀⠀⠀⠀⠀⠀⠀┌⠀⠀⠀⠀⠀⠀⠀⠀ <code>daily drivers</code> ⠀⠀⠀⠀⠀⠀⠀⠀┐
 
@@ -27,7 +32,7 @@ Trying to get things done!
 [![Spotify](https://img.shields.io/badge/spotify-7bdff2?style=flat&logo=spotify&logoColor=333533)](https://www.spotify.com/)
 [![Git](https://img.shields.io/badge/git-7bdff2?style=flat&logo=git&logoColor=333533)](https://git-scm.com/)
 
-└⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀┘⠀⠀⠀⠀⠀⠀⠀⠀⠀└⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀┘⠀⠀⠀⠀⠀
+└⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀┘⠀⠀⠀⠀⠀⠀⠀⠀⠀└⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀┘⠀⠀⠀⠀⠀
 
 
 
