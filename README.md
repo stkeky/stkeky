@@ -11,16 +11,15 @@ Trying to get things done!
 
 ### 🔹 Actively speaking
 
-[![Scala](https://img.shields.io/badge/scala-black?style=for-the-badge&logo=scala)](https://www.scala-lang.org/)
-[![Java](https://img.shields.io/badge/java-black?style=for-the-badge&logo=java)](https://www.java.com/)
-[![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://www.python.org/)
-[![SQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=postgresql)](https://www.postgresql.org/)
+[![Scala](https://img.shields.io/badge/⠀-scala-2ec4b6?style=flat&logo=scala)](https://www.scala-lang.org/)
+[![Java](https://img.shields.io/badge/⠀-java-2ec4b6??style=flat&logo=java)](https://www.java.com/)
+[![Python](https://img.shields.io/badge/⠀-python-2ec4b6??style=for-the-badge&logo=python)](https://www.python.org/)
+[![SQL](https://img.shields.io/badge/⠀-sql-2ec4b6??style=for-the-badge&logo=postgresql)](https://www.postgresql.org/)
 
-### 🔸 Spoken a bit
 
-[![Kotlin](https://img.shields.io/badge/kotlin-black?style=flat-square&logo=kotlin)](https://kotlinlang.org/)
-[![Javascript](https://img.shields.io/badge/javascript-black?style=flat-square&logo=javascript)](https://developer.mozilla.org/en-US/docs/Web/JavaScript/)
-[![Typescript](https://img.shields.io/badge/typescript-black?style=flat-square&logo=typescript)](https://www.typescriptlang.org/)
+[![Kotlin](https://img.shields.io/badge/⠀-kotlin-ffbf69?style=flat&logo=kotlin)](https://kotlinlang.org/)
+[![Javascript](https://img.shields.io/badge/⠀-javascript-ffbf69?style=flat&logo=javascript)](https://developer.mozilla.org/en-US/docs/Web/JavaScript/)
+[![Typescript](https://img.shields.io/badge/⠀-typescript-ffbf69?style=flat&logo=typescript)](https://www.typescriptlang.org/)
 
 
 
