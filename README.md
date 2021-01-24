@@ -5,7 +5,7 @@
 
 ---
 <div align="center"><code>social</code></div>
-<br />
+
 <div align="center">
     <a href="https://linkedin.com/in/stkeky/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-b8bedd?style=flat&logo=linkedin&logoColor=333533"></a>
     <a href="https://github.com/stkeky/" target="_blank"><img alt="Github" src="https://img.shields.io/badge/github-b8bedd?style=flat&logo=github&logoColor=333533"></a>
@@ -15,8 +15,19 @@
 <br />
 
 <div>
-<code align="left" margin-left="30px">code in<code>
-<code align="right" margin-right="30px">daily drivers</code>
+<br />
+<table width="100%">
+<tbody>
+<tr>
+<td text-align="center"><code>code in</code></td>
+<td text-align="center"><code>daily drivers</code></td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+</tbody>
+</table>
 </div>
 
    [![Scala](https://img.shields.io/badge/scala-b2f7ef?style=flat&logo=scala&logoColor=333533)](https://www.scala-lang.org/) 
