@@ -12,8 +12,12 @@
     <a href="https://instagram.com/st_keky/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/instagram-b8bedd?style=flat&logo=instagram&logoColor=333533"></a>
     <a href="mailto:st.keky@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/gmail-b8bedd?style=flat&logo=gmail&logoColor=333533"></a>
 </div>
+<br />
 
-┌           <code>code in</code>           ┐          ┌         <code>daily drivers</code>         ┐
+<div>
+<code align="left" margin-left="30px">code in<code>
+<code align="right" margin-right="30px">daily drivers</code>
+</div>
 
    [![Scala](https://img.shields.io/badge/scala-b2f7ef?style=flat&logo=scala&logoColor=333533)](https://www.scala-lang.org/) 
 [![Java](https://img.shields.io/badge/java-b2f7ef??style=flat&logo=java&logoColor=333533)](https://www.java.com/)
