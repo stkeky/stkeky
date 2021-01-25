@@ -23,21 +23,17 @@
 </tr>
 <tr>
 <td>
- <a href="https://linkedin.com/in/stkeky/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-b8bedd?style=flat&logo=linkedin&logoColor=333533"></a>
-     <a href="https://github.com/stkeky/" target="_blank"><img alt="Github" src="https://img.shields.io/badge/github-b8bedd?style=flat&logo=github&logoColor=333533"></a>
-     <br />
-      <a href="https://linkedin.com/in/stkeky/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-b8bedd?style=flat&logo=linkedin&logoColor=333533"></a>
-    <a href="https://github.com/stkeky/" target="_blank"><img alt="Github" src="https://img.shields.io/badge/github-b8bedd?style=flat&logo=github&logoColor=333533"></a>
+    <a href="#" target="_blank"><img alt="Scala" src="https://img.shields.io/badge/scala-b2f7ef?style=flat&logo=scala&logoColor=333533"></a>
+    <a href="#" target="_blank"><img alt="Java" src="https://img.shields.io/badge/java-b2f7ef??style=flat&logo=java&logoColor=333533"></a>
+    <a href="#" target="_blank"><img alt="Python" src="https://img.shields.io/badge/python-b2f7ef??style=for-the-badge&logo=python&logoColor=333533"></a>
+    <a href="#" target="_blank"><img alt="SQL" src="https://img.shields.io/badge/sql-b2f7ef??style=for-the-badge&logo=postgresql&logoColor=333533"></a>
+    
 </td>
 <td>&nbsp;</td>
 </tr>
 </tbody>
 </table>
 
-   [![Scala](https://img.shields.io/badge/scala-b2f7ef?style=flat&logo=scala&logoColor=333533)](https://www.scala-lang.org/) 
-[![Java](https://img.shields.io/badge/java-b2f7ef??style=flat&logo=java&logoColor=333533)](https://www.java.com/)
-[![Python](https://img.shields.io/badge/python-b2f7ef??style=for-the-badge&logo=python&logoColor=333533)](https://www.python.org/)
-[![SQL](https://img.shields.io/badge/sql-b2f7ef??style=for-the-badge&logo=postgresql&logoColor=333533)](https://www.postgresql.org/)               
 [![Manjaro](https://img.shields.io/badge/manjaro-7bdff2?style=flat&logo=manjaro&logoColor=333533)](https://manjaro.org/)
 [![InteliJ IDEA](https://img.shields.io/badge/intellij_idea-7bdff2?style=flat&logo=intellij-idea&logoColor=333533)](https://www.jetbrains.com/idea/)
 [![Todoist](https://img.shields.io/badge/todoist-7bdff2?style=flat&logo=todoist&logoColor=333533)](https://todoist.com/)
