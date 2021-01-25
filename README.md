@@ -5,6 +5,7 @@
 
 ---
 <div align="center"><code>social</code></div>
+<br />
 
 <div align="center">
     <a href="https://linkedin.com/in/stkeky/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-b8bedd?style=flat&logo=linkedin&logoColor=333533"></a>
@@ -21,7 +22,13 @@
 <td text-align="center"><code>daily drivers</code></td>
 </tr>
 <tr>
-<td>&nbsp;</td>
+<td>
+ <a href="https://linkedin.com/in/stkeky/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-b8bedd?style=flat&logo=linkedin&logoColor=333533"></a>
+     <a href="https://github.com/stkeky/" target="_blank"><img alt="Github" src="https://img.shields.io/badge/github-b8bedd?style=flat&logo=github&logoColor=333533"></a>
+     <br />
+      <a href="https://linkedin.com/in/stkeky/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-b8bedd?style=flat&logo=linkedin&logoColor=333533"></a>
+    <a href="https://github.com/stkeky/" target="_blank"><img alt="Github" src="https://img.shields.io/badge/github-b8bedd?style=flat&logo=github&logoColor=333533"></a>
+</td>
 <td>&nbsp;</td>
 </tr>
 </tbody>
