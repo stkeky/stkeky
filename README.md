@@ -15,7 +15,7 @@
 </div>
 <br />
 
-<table width="100%" cellspacing="0" cellpadding="0" align="center">
+<table width="100%" cellspacing="0" cellpadding="0" align="center" border="none">
 <tbody>
 <tr>
 <td text-align="center"><code>code in</code></td>
