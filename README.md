@@ -14,8 +14,6 @@
 </div>
 <br />
 
-<div>
-<br />
 <table width="100%" cellspacing="0" cellpadding="0" align="center">
 <tbody>
 <tr>
@@ -28,7 +26,6 @@
 </tr>
 </tbody>
 </table>
-</div>
 
    [![Scala](https://img.shields.io/badge/scala-b2f7ef?style=flat&logo=scala&logoColor=333533)](https://www.scala-lang.org/) 
 [![Java](https://img.shields.io/badge/java-b2f7ef??style=flat&logo=java&logoColor=333533)](https://www.java.com/)
