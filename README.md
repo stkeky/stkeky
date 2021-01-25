@@ -18,8 +18,8 @@
 <table width="100%" cellspacing="0" cellpadding="0" align="center" border="none">
 <tbody>
 <tr>
-<td text-align="center"><code>code in</code></td>
-<td text-align="center"><code>daily drivers</code></td>
+<td text-align="center" align="center"><strong>code in</strong></td>
+<td text-align="center"><strong align="center">daily drivers</strong></td>
 </tr>
 <tr>
 <td>
