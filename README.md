@@ -4,7 +4,8 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fstkeky%2Fstkeky&hit-counter&count_bg=%233EB810&title_bg=%23555555&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 [![committers.top badge](https://user-badge.committers.top/serbia_private/stkeky.svg)](https://user-badge.committers.top/serbia_private/stkeky)
 
----
+<br />
+<div align="center"><strong>🦁</strong></div>
 <div align="center"><strong>social</strong></div>
 <br />
 
