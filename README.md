@@ -26,7 +26,7 @@
 <tr>
 <td>
     <a href="#" target="_blank"><img alt="Scala" src="https://img.shields.io/badge/scala-b2f7ef?style=flat&logo=scala&logoColor=333533"></a>
-    <a href="#" target="_blank"><img alt="Java" src="https://img.shields.io/badge/java-b2f7ef??style=flat&logo=java&logoColor=333533"></a>
+    <a href="#" target="_blank"><img alt="Java" src="https://img.shields.io/badge/java-b2f7ef??style=flat&logo=openjdk&logoColor=333533"></a>
     <a href="#" target="_blank"><img alt="Python" src="https://img.shields.io/badge/python-b2f7ef??style=for-the-badge&logo=python&logoColor=333533"></a>
     <a href="#" target="_blank"><img alt="SQL" src="https://img.shields.io/badge/sql-b2f7ef??style=for-the-badge&logo=postgresql&logoColor=333533"></a>
     <br />
