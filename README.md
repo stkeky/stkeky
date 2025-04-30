@@ -1,20 +1,10 @@
 ## Stefan vs. Universe 
 
 ![stkeky](https://img.shields.io/badge/st-keky-3eb810?style=flat)
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fstkeky%2Fstkeky&hit-counter&count_bg=%233EB810&title_bg=%23555555&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 [![committers.top badge](https://user-badge.committers.top/serbia_private/stkeky.svg)](https://user-badge.committers.top/serbia_private/stkeky)
 
 <br />
 <div align="center"><strong>🦁</strong></div>
-<div align="center"><strong>social</strong></div>
-<br />
-
-<div align="center">
-    <a href="https://linkedin.com/in/stkeky/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-b8bedd?style=flat&logo=linkedin&logoColor=333533"></a>
-    <a href="https://github.com/stkeky/" target="_blank"><img alt="Github" src="https://img.shields.io/badge/github-b8bedd?style=flat&logo=github&logoColor=333533"></a>
-    <a href="https://instagram.com/st_keky/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/instagram-b8bedd?style=flat&logo=instagram&logoColor=333533"></a>
-    <a href="mailto:st.keky@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/gmail-b8bedd?style=flat&logo=gmail&logoColor=333533"></a>
-</div>
 <br />
 
 <table width="100%" cellspacing="0" cellpadding="0" align="center">
