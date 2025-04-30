@@ -1,17 +1,13 @@
-## Stefan vs. Universe 
+## Stefan vs. Universe ✨
 
 ![stkeky](https://img.shields.io/badge/st-keky-3eb810?style=flat)
 [![committers.top badge](https://user-badge.committers.top/serbia_private/stkeky.svg)](https://user-badge.committers.top/serbia_private/stkeky)
 
-<br />
-<div align="center"><strong>🦁</strong></div>
-<br />
 
 <table width="100%" cellspacing="0" cellpadding="0" align="center">
 <tbody>
 <tr>
-<td align="center"><strong>code in</strong></td>
-<td align="center"><strong>daily drivers</strong></td>
+    <td align="center"><kbd>code in</kbd></td>
 </tr>
 <tr>
 <td>
@@ -24,6 +20,10 @@
     <a href="#" target="_blank"><img alt="Javascript" src="https://img.shields.io/badge/javascript-f7d6e0?style=flat&logo=javascript&logoColor=333533"></a>
     <a href="#" target="_blank"><img alt="Typescript" src="https://img.shields.io/badge/typescript-f7d6e0?style=flat&logo=typescript&logoColor=333533"></a>
 </td>
+<tr>
+    <td align="center"><kbd>daily drivers</kbd></td>
+</tr>
+<tr>
 <td>
     <a href="#" target="_blank"><img alt="Manjaro" src="https://img.shields.io/badge/manjaro-7bdff2?style=flat&logo=manjaro&logoColor=333533"></a>
     <a href="#" target="_blank"><img alt="Intellij IDEA" src="https://img.shields.io/badge/intellij_idea-7bdff2?style=flat&logo=intellij-idea&logoColor=333533"></a>
@@ -34,6 +34,7 @@
     <a href="#" target="_blank"><img alt="Spotify" src="https://img.shields.io/badge/spotify-7bdff2?style=flat&logo=spotify&logoColor=333533"></a>
     <a href="#" target="_blank"><img alt="Git" src="https://img.shields.io/badge/git-7bdff2?style=flat&logo=git&logoColor=333533"></a>
 </td>
+</tr>
 </tr>
 </tbody>
 </table>
